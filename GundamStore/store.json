@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "VDT hobby shop",
+        "email": "vuducthanh198@gmailcom",
+        "number": "039-692-0246",
+        "description": "This is a store...",
+        "imageName": "vdt",
+        "coordinates": {
+            "latitude": 21.023341,
+            "longitude": 105.839258
+        }
+    },
+    {
+        "id": 2,
+        "name": "89 Gundam",
+        "email": "89gundam@gmailcom",
+        "number": "090-904-24-82",
+        "description": "This is a store...",
+        "imageName": "89gundam",
+        "coordinates": {
+            "latitude": 10.802602,
+            "longitude": 106.636454
+        }
+        
+    },
+    {
+        "id": 3,
+        "name": "GundamStore VN",
+        "email": "gundamstorevn86@gmailcom",
+        "number": "093-595-06-49",
+        "description": "This is a store...",
+        "imageName": "gundamstorevn",
+        "coordinates": {
+            "latitude": 10.83783,
+            "longitude": 106.64589
+        }
+        
+    },
+    {
+        "id": 4,
+        "name": "K2T Gundam Shop",
+        "email": "k2tgundamshop@gmail.com",
+        "number": "076-689-56-42",
+        "description": "This is a store...",
+        "imageName": "k2tgundam",
+        "coordinates": {
+            "latitude": 10.76028,
+            "longitude": 106.64089
+        }
+        
+    },
+    {
+        "id": 5,
+        "name": "Gundam Game n Shop",
+        "email": "dathang@nintendovn.com",
+        "number": "090-384-32-63",
+        "description": "Công ty TNHH Thương Mại nShop là hệ thống cửa hàng chuyên mua bán, cung cấp máy chơi Game giải trí gia đình Nintendo Switch OLED, Sony PlayStation & các sản phẩm đồ chơi mô hình thuộc Bandai, Takara Tomy, The Pokémon Company, Konami, Rement, Tamashii Nation, Good Smile Company, Banpresto, Tamiya... của Nhật Bản. \n Tiền thân đội ngũ nShop là những người đã phát triển trang cộng đồng game NintendoVN từ những năm 2007 với hơn 40,000 thành viên và quản lý group Facebook Hội nhóm Yêu thích Game Nintendo với hơn 35,000 thành viên hoạt động tích cực & Sôi nổi. Qua nhiều năm phục vụ cộng đồng, chúng tôi tích lũy được nhiều kinh nghiệm trong lĩnh vực game & giải trí để có thể mang lại dịch vụ tốt nhất phục vụ khách hàng với tiêu chí Chất Lượng và Chuyên Nghiệp nhất. ",
+        "imageName": "nshop",
+        "coordinates": {
+            "latitude": 10.79149,
+            "longitude": 106.68871
+        }
+        
+    }
+
+]
